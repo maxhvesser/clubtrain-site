@@ -1,0 +1,34 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+/* Images */
+#promo-image {
+    max-width: 100%;
+}
+
+#dl-google-play-image {
+    max-height: 71px;
+}
+
+#dl-apple-store-image {
+    max-height: 71px;
+}
+
+/* Colors */
+.bg-ct {
+    background-color: #191C1D;
+}
+
+.text-ct-primary {
+    color: #E1E3E4;
+}
+
+/* Testing colors */
+.bg-testing-primary {
+    background-color: red;
+}
+
+.bg-testing-secondary {
+    background-color: blue;
+}
